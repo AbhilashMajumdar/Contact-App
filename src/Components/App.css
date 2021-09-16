@@ -1,0 +1,15 @@
+.addContactStyle{
+    background-color: bisque;
+}
+
+.contactListStyle{
+    background-color: rgb(217, 230, 247);
+}
+
+.iconStyle{
+    cursor: pointer;
+}
+
+.ContactBar{
+    background-color: khaki;
+}
